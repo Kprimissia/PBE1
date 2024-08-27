@@ -19,7 +19,7 @@ public class Pokemon {
 				this.atributoNome = parametroNome;
 				this.atributoTipo = parametroTipo;
 				this.atributoNivel = parametroNivel;
-				this.atributoHP = parametroHP;
+				this.atributoHP = parametroHp;
 			}
 			
 			
