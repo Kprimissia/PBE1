@@ -32,6 +32,26 @@ public class Aplicacao {
 		rattata.atributoTipo = "Normal";
 		rattata.atributoNivel = 17;
 		rattata.atributoHp = 96;
+
+		torchic.exibirinfo();
+		torchic.metodoAtacar();
+		torchic.metodoEvoluir();
+		
+		litten.exibirinfo();
+		litten.metodoAtacar();
+		litten.metodoEvoluir();
+		
+		charmander.exibirinfo();
+		charmander.metodoAtacar();
+		charmander.metodoEvoluir();
+		
+		cyndaquil.exibirinfo();
+		cyndaquil.metodoAtacar();
+		cyndaquil.metodoEvoluir();
+		
+		scorbunny.exibirinfo();
+		scorbunny.metodoAtacar();
+		scorbunny.metodoEvoluir();
 	}
 
 }
