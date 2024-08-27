@@ -33,25 +33,25 @@ public class Aplicacao {
 		rattata.atributoNivel = 17;
 		rattata.atributoHp = 96;
 
-		torchic.exibirinfo();
-		torchic.metodoAtacar();
-		torchic.metodoEvoluir();
+		charmander.exibirinfo();
+		charmander.metodoAtacar();
+		charmander.metodoEvoluir();
 		
-		litten.exibirinfo();
-		litten.metodoAtacar();
-		litten.metodoEvoluir();
+		squirtle.exibirinfo();
+     		squirtle.metodoAtacar();
+		squirtle.metodoEvoluir();
 		
 		charmander.exibirinfo();
 		charmander.metodoAtacar();
 		charmander.metodoEvoluir();
 		
-		cyndaquil.exibirinfo();
-		cyndaquil.metodoAtacar();
-		cyndaquil.metodoEvoluir();
+		pikachu.exibirinfo();
+		pikachu.metodoAtacar();
+		pikachu.metodoEvoluir();
 		
-		scorbunny.exibirinfo();
-		scorbunny.metodoAtacar();
-		scorbunny.metodoEvoluir();
+		rattata.exibirinfo();
+		rattata.metodoAtacar();
+		rattata.metodoEvoluir();
 	}
 
 }
