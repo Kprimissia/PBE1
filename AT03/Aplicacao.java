@@ -4,10 +4,10 @@ public class Aplicacao {
 
 	public static void main(String[] args) {
 		Pokemon chamander = new Pokemon();
-		chamander.atributoNome = "charmander";
-		chamander.atributoTipo = "Fogo";
-		chamander.atributoNivel = 15;
-		chamander.atributoHp = 100;
+		charmander.atributoNome = "charmander";
+		charmander.atributoTipo = "Fogo";
+		charmander.atributoNivel = 15;
+		charmander.atributoHp = 100;
 		
 		Pokemon squirtle = new Pokemon();
 		squirtle.atributoNome = "Squirtle";
